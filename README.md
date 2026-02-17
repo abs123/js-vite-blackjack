@@ -10,3 +10,5 @@ Pasos para ejecutar proyecto:
 
 1. Ejecutar ```npm run build```
 2. Tomar la carpeta ```dist``` y desplegarla
+3. Correr el DevServer  ``npm run dev``
+4. Abrir el proyecto  en : ``localhost:3000``
